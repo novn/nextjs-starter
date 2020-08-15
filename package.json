@@ -1,0 +1,23 @@
+{
+  "name": "next-starter",
+  "version": "0.1.0",
+  "description": "A Simple Boilderplate for Next.js Project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build",
+    "export": "next export",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react", "next"
+  ],
+  "author": "Younger Jo <youngerjo@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
