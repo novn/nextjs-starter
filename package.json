@@ -11,13 +11,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react", "next"
+    "react",
+    "next"
   ],
   "author": "Younger Jo <youngerjo@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "next": "^9.5.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "next": "^9.5.5",
+    "react": "^17.0.0-rc.3",
+    "react-dom": "^17.0.0-rc.3"
   }
 }
